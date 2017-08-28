@@ -72,4 +72,4 @@ RUBOTY_NAME              - Name to respond to mention (default: ruboty)
 
 See [r7kamura/ruboty-template](https://github.com/r7kamura/ruboty-template) for example.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/r7kamura/ruboty-template)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/itiya/ruboty-template)
